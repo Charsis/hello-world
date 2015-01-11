@@ -1,4 +1,4 @@
 # hello-world
 First test repository
 
-This is Eric
+This is Eric Dufus
